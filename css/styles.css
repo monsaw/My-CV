@@ -1,0 +1,88 @@
+.first-session{
+position: relative;
+
+}
+.pix{
+position: absolute;
+right: 20px;
+top:0;
+margin-bottom: 20px;
+border-radius: 100%;
+
+
+}
+h1{
+  font-size: 2rem;
+  font-family: sans-serif;
+}
+h5{
+  font-size: 0.8rem;
+}
+hr {
+margin-top: 50px;
+
+}
+p{
+  margin-left: 200px;
+  width: 70%;
+  line-height: 30px;
+  font-family: sans-serif;
+
+}
+h4{
+  margin-top: 40px;
+  margin-bottom: 10px;
+  font-family:sans-serif;
+  color: blue;
+}
+ul{
+  position: absolute;
+  right: 0;
+  bottom: 0;
+
+}
+ul li{
+display: inline;
+margin: 9px 2px 2px 2px;
+font-size: 12px;
+}
+a{
+  text-decoration:none;
+
+}
+a:hover{
+  color: red;
+}
+.news{
+  position: relative;
+}
+.new{
+ display: inline;
+
+  position: absolute;
+top:20px;
+left:1000px;
+width: 100%;
+}
+.new-wis{
+  display: inline;
+
+   position: absolute;
+ margin-top:0;
+ left:1000px;
+ width: 100%;
+
+}
+
+.mail{
+  width: 100%;
+  margin-left: 500px;
+}
+
+.footer{
+  background-color: green;
+  padding: 30px;
+}
+.yellow{
+  color: yellow;
+}
